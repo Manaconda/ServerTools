@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config>
+      <RAM>29</RAM>
+      <CPU>15</CPU>
+      <OSDISK>300</OSDISK>
+      <DATADISK>2000</DATADISK>
+      <VMPATH>D:\HYPER-V</VMPATH>
+      <IP>10.10.16.197</IP>
+      <GATEWAY>10.10.16.254</GATEWAY>
+      <DNS>10.10.20.11</DNS>
+</config>
